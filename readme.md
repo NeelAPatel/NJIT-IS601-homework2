@@ -34,5 +34,8 @@ pip3 install -r requirements.txt
 pytest --pylint --cov
 ```
 
+# Note
+All code was written on my own except for .pylintrc and pytest.ini
+
 
 
